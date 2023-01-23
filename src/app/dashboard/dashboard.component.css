@@ -6,9 +6,7 @@ h2 {
   padding: 0;
   margin: auto;
   max-width: 1000px;
-
-  /* flexbox */
-  display: flex;
+   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
